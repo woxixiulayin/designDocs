@@ -2190,8 +2190,8 @@
     {
       "id": "9WDGst2ax_FlKbhdleuiw",
       "type": "rectangle",
-      "x": 1211.704355093149,
-      "y": 783.091562124399,
+      "x": 1220.9719942533052,
+      "y": 828.226327749399,
       "width": 153.56628417968747,
       "height": 62.050537109375014,
       "angle": 0,
@@ -2207,21 +2207,22 @@
       ],
       "strokeSharpness": "sharp",
       "seed": 196508384,
-      "version": 278,
-      "versionNonce": 436957920,
+      "version": 322,
+      "versionNonce": 208461600,
       "isDeleted": false,
       "boundElementIds": [
         "cHhAR5AbhESYiYOR5U3NC",
         "7_WtRPKe4_a7TAvL26Cbw",
-        "mwkdeM_Dd3UyYSl_oXAMM"
+        "mwkdeM_Dd3UyYSl_oXAMM",
+        "iPAtLQrcpUXFNVjF5Sijq"
       ]
     },
     {
       "id": "Wm1tSk2xVvc72PeVBZtQQ",
       "type": "text",
-      "x": 1228.9137056790864,
-      "y": 801.289316030649,
-      "width": 120,
+      "x": 1238.1813448392427,
+      "y": 846.424081655649,
+      "width": 80,
       "height": 28,
       "angle": 0,
       "strokeColor": "#000000",
@@ -2236,11 +2237,11 @@
       ],
       "strokeSharpness": "sharp",
       "seed": 1761761056,
-      "version": 157,
-      "versionNonce": 1958849312,
+      "version": 242,
+      "versionNonce": 1250459424,
       "isDeleted": false,
       "boundElementIds": null,
-      "text": "特殊组件处理",
+      "text": "组件调整",
       "fontSize": 20,
       "fontFamily": 2,
       "textAlign": "left",
@@ -2249,8 +2250,8 @@
     },
     {
       "type": "rectangle",
-      "version": 391,
-      "versionNonce": 1910118112,
+      "version": 469,
+      "versionNonce": 780839648,
       "isDeleted": false,
       "id": "DHEW4QWpyO0gsfb5NN5-E",
       "fillStyle": "cross-hatch",
@@ -2259,8 +2260,8 @@
       "roughness": 0,
       "opacity": 100,
       "angle": 0,
-      "x": 1429.8732299804688,
-      "y": 749.279296875,
+      "x": 1443.311279296875,
+      "y": 811.8936767578125,
       "strokeColor": "#000000",
       "backgroundColor": "#fab005",
       "width": 99.42065429687501,
@@ -2277,8 +2278,8 @@
     {
       "id": "J8oc7sh2b7Yd3a7ZXrDPr",
       "type": "text",
-      "x": 1434.5835571289062,
-      "y": 751.3657836914062,
+      "x": 1448.0216064453125,
+      "y": 813.9801635742188,
       "width": 90,
       "height": 28,
       "angle": 0,
@@ -2294,10 +2295,12 @@
       ],
       "strokeSharpness": "sharp",
       "seed": 1267366688,
-      "version": 101,
-      "versionNonce": 1100957472,
+      "version": 180,
+      "versionNonce": 997511968,
       "isDeleted": false,
-      "boundElementIds": null,
+      "boundElementIds": [
+        "cHhAR5AbhESYiYOR5U3NC"
+      ],
       "text": "if条件组件",
       "fontSize": 20,
       "fontFamily": 2,
@@ -2307,8 +2310,8 @@
     },
     {
       "type": "rectangle",
-      "version": 415,
-      "versionNonce": 540293856,
+      "version": 467,
+      "versionNonce": 443714336,
       "isDeleted": false,
       "id": "uMJzvDo-NxDM4iw_deJUO",
       "fillStyle": "cross-hatch",
@@ -2317,8 +2320,8 @@
       "roughness": 0,
       "opacity": 100,
       "angle": 0,
-      "x": 1431.4605712890625,
-      "y": 805.2216796875,
+      "x": 1443.3053588867188,
+      "y": 854.6591796875,
       "strokeColor": "#000000",
       "backgroundColor": "#fab005",
       "width": 99.42065429687501,
@@ -2335,8 +2338,8 @@
     {
       "id": "LLJKHgqXOYpWLBckG5poe",
       "type": "text",
-      "x": 1441.1708984375,
-      "y": 807.3081665039062,
+      "x": 1453.0156860351562,
+      "y": 856.7456665039062,
       "width": 80,
       "height": 28,
       "angle": 0,
@@ -2352,8 +2355,8 @@
       ],
       "strokeSharpness": "sharp",
       "seed": 125966048,
-      "version": 92,
-      "versionNonce": 1483301664,
+      "version": 143,
+      "versionNonce": 254257952,
       "isDeleted": false,
       "boundElementIds": null,
       "text": "注释组件",
@@ -2365,8 +2368,8 @@
     },
     {
       "type": "rectangle",
-      "version": 463,
-      "versionNonce": 1200619296,
+      "version": 502,
+      "versionNonce": 416552672,
       "isDeleted": false,
       "id": "84BfQcciEzG27tNawnXMI",
       "fillStyle": "solid",
@@ -2375,8 +2378,8 @@
       "roughness": 0,
       "opacity": 100,
       "angle": 0,
-      "x": 1432.6005011898353,
-      "y": 853.1031068999198,
+      "x": 1441.8681403499916,
+      "y": 898.2378725249198,
       "strokeColor": "#000000",
       "backgroundColor": "#fab005",
       "width": 99.42065429687501,
@@ -2393,10 +2396,10 @@
     {
       "id": "cHhAR5AbhESYiYOR5U3NC",
       "type": "arrow",
-      "x": 1375.1580653546598,
-      "y": 800.0376519905769,
-      "width": 47.19623272235572,
-      "height": 36.165301983173094,
+      "x": 1384.425704514816,
+      "y": 853.03539034504,
+      "width": 51.36664287860572,
+      "height": 29.536556946115525,
       "angle": 0,
       "strokeColor": "#000000",
       "backgroundColor": "#fab005",
@@ -2408,8 +2411,8 @@
       "groupIds": [],
       "strokeSharpness": "round",
       "seed": 46132000,
-      "version": 222,
-      "versionNonce": 1333992224,
+      "version": 419,
+      "versionNonce": 722062048,
       "isDeleted": false,
       "boundElementIds": null,
       "points": [
@@ -2418,20 +2421,20 @@
           0
         ],
         [
-          47.19623272235572,
-          -36.165301983173094
+          51.36664287860572,
+          -29.536556946115525
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": {
         "elementId": "9WDGst2ax_FlKbhdleuiw",
-        "focus": 0.5823836664294444,
+        "focus": 0.5802413234462969,
         "gap": 9.887426081823378
       },
       "endBinding": {
-        "elementId": "DHEW4QWpyO0gsfb5NN5-E",
-        "focus": 0.8369921915749192,
-        "gap": 7.518931903453222
+        "elementId": "J8oc7sh2b7Yd3a7ZXrDPr",
+        "focus": 0.9376393715847731,
+        "gap": 12.229259051890722
       },
       "startArrowhead": null,
       "endArrowhead": "arrow"
@@ -2439,10 +2442,10 @@
     {
       "id": "7_WtRPKe4_a7TAvL26Cbw",
       "type": "arrow",
-      "x": 1371.2994227765348,
-      "y": 812.5367364632332,
-      "width": 50.29094989483178,
-      "height": 3.4186964768630332,
+      "x": 1380.567061936691,
+      "y": 859.1030678731813,
+      "width": 52.86809833233178,
+      "height": 4.8249924823564925,
       "angle": 0,
       "strokeColor": "#000000",
       "backgroundColor": "#fab005",
@@ -2454,8 +2457,8 @@
       "groupIds": [],
       "strokeSharpness": "round",
       "seed": 920612576,
-      "version": 215,
-      "versionNonce": 841459424,
+      "version": 358,
+      "versionNonce": 394040032,
       "isDeleted": false,
       "boundElementIds": null,
       "points": [
@@ -2464,19 +2467,19 @@
           0
         ],
         [
-          50.29094989483178,
-          3.4186964768630332
+          52.86809833233178,
+          4.8249924823564925
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": {
         "elementId": "9WDGst2ax_FlKbhdleuiw",
-        "focus": -0.19891132764401145,
+        "focus": -0.20262309745295176,
         "gap": 6.028783503698378
       },
       "endBinding": {
         "elementId": "uMJzvDo-NxDM4iw_deJUO",
-        "focus": 0.0669149332866876,
+        "focus": 0.06691493328667085,
         "gap": 9.870198617695905
       },
       "startArrowhead": null,
@@ -2485,8 +2488,8 @@
     {
       "id": "mwkdeM_Dd3UyYSl_oXAMM",
       "type": "arrow",
-      "x": 1374.641520132304,
-      "y": 836.255420733065,
+      "x": 1383.9091592924603,
+      "y": 881.390186358065,
       "width": 48.623028094951906,
       "height": 31.518419039648506,
       "angle": 0,
@@ -2500,8 +2503,8 @@
       "groupIds": [],
       "strokeSharpness": "round",
       "seed": 411006688,
-      "version": 245,
-      "versionNonce": 582137632,
+      "version": 364,
+      "versionNonce": 199056096,
       "isDeleted": false,
       "boundElementIds": null,
       "points": [
@@ -2530,8 +2533,8 @@
     },
     {
       "type": "rectangle",
-      "version": 506,
-      "versionNonce": 630117152,
+      "version": 545,
+      "versionNonce": 2015616736,
       "isDeleted": false,
       "id": "DcMk6iyhVGqEPPDFwImuP",
       "fillStyle": "solid",
@@ -2540,8 +2543,8 @@
       "roughness": 0,
       "opacity": 100,
       "angle": 0,
-      "x": 1423.6257245468685,
-      "y": 861.7920386968074,
+      "x": 1432.8933637070247,
+      "y": 906.9268043218074,
       "strokeColor": "#000000",
       "backgroundColor": "#fab005",
       "width": 99.42065429687501,
@@ -2557,8 +2560,8 @@
     },
     {
       "type": "rectangle",
-      "version": 510,
-      "versionNonce": 1574137568,
+      "version": 550,
+      "versionNonce": 794968864,
       "isDeleted": false,
       "id": "Jgahv6N7wmoJz3X01UHY9",
       "fillStyle": "solid",
@@ -2567,8 +2570,8 @@
       "roughness": 0,
       "opacity": 100,
       "angle": 0,
-      "x": 1416.1045453476497,
-      "y": 872.3436744389949,
+      "x": 1425.372184507806,
+      "y": 917.4784400639949,
       "strokeColor": "#000000",
       "backgroundColor": "#fab005",
       "width": 99.42065429687501,
@@ -2634,7 +2637,7 @@
       "x": 1256.2888104843682,
       "y": 702.5823218999325,
       "width": 260,
-      "height": 28,
+      "height": 56,
       "angle": 0,
       "strokeColor": "#000000",
       "backgroundColor": "#fab005",
@@ -2646,16 +2649,16 @@
       "groupIds": [],
       "strokeSharpness": "sharp",
       "seed": 1753402144,
-      "version": 111,
-      "versionNonce": 1933742816,
+      "version": 171,
+      "versionNonce": 1190988576,
       "isDeleted": false,
       "boundElementIds": null,
-      "text": "针对上下文组件进行相关处理",
+      "text": "针对上下文组件进行相关处理\n(组件合并或者修改参数)",
       "fontSize": 20,
       "fontFamily": 2,
       "textAlign": "left",
       "verticalAlign": "top",
-      "baseline": 21
+      "baseline": 49
     },
     {
       "type": "rectangle",
@@ -2934,6 +2937,111 @@
         "elementId": "0hWvRmTdDgJJRKhWsR56H",
         "focus": 0.16489236827587203,
         "gap": 8.462524414062386
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "type": "rectangle",
+      "version": 527,
+      "versionNonce": 1879823136,
+      "isDeleted": false,
+      "id": "zwWstQRGpVCI1ntN3v_Id",
+      "fillStyle": "cross-hatch",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1443.88508733984,
+      "y": 774.4871843673834,
+      "strokeColor": "#000000",
+      "backgroundColor": "#fab005",
+      "width": 99.42065429687501,
+      "height": 32.17297363281253,
+      "seed": 1042698976,
+      "groupIds": [
+        "EF-iE1nIq0GRnDD5uD0os"
+      ],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [
+        "cHhAR5AbhESYiYOR5U3NC",
+        "iPAtLQrcpUXFNVjF5Sijq"
+      ]
+    },
+    {
+      "type": "text",
+      "version": 253,
+      "versionNonce": 953136928,
+      "isDeleted": false,
+      "id": "bSFcZCtrj1pkexT_ZXY_u",
+      "fillStyle": "cross-hatch",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1443.5954144882776,
+      "y": 776.5736711837897,
+      "strokeColor": "#000000",
+      "backgroundColor": "#fab005",
+      "width": 100,
+      "height": 28,
+      "seed": 1548012320,
+      "groupIds": [
+        "EF-iE1nIq0GRnDD5uD0os"
+      ],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
+      "fontSize": 20,
+      "fontFamily": 2,
+      "text": "自定义组件",
+      "baseline": 21,
+      "textAlign": "center",
+      "verticalAlign": "middle"
+    },
+    {
+      "id": "iPAtLQrcpUXFNVjF5Sijq",
+      "type": "arrow",
+      "x": 1381.9610761093713,
+      "y": 840.0255754806647,
+      "width": 56.2655029296875,
+      "height": 48.0018310546875,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "#fab005",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "round",
+      "seed": 1035434784,
+      "version": 135,
+      "versionNonce": 1182976736,
+      "isDeleted": false,
+      "boundElementIds": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          56.2655029296875,
+          -48.0018310546875
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "9WDGst2ax_FlKbhdleuiw",
+        "focus": 0.5450319288794986,
+        "gap": 7.42279767637865
+      },
+      "endBinding": {
+        "elementId": "zwWstQRGpVCI1ntN3v_Id",
+        "focus": 0.7827349693548271,
+        "gap": 5.65850830078125
       },
       "startArrowhead": null,
       "endArrowhead": "arrow"
